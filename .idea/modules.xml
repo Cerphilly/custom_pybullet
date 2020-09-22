@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SimpleRL/.idea/SimpleRL.iml" filepath="$PROJECT_DIR$/../SimpleRL/.idea/SimpleRL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pybullet.iml" filepath="$PROJECT_DIR$/.idea/pybullet.iml" />
+      <module fileurl="file://$USER_HOME$/anaconda3/envs/tf2/Lib/site-packages/pybullet_envs/.idea/pybullet_envs.iml" filepath="$USER_HOME$/anaconda3/envs/tf2/Lib/site-packages/pybullet_envs/.idea/pybullet_envs.iml" />
+    </modules>
+  </component>
+</project>
