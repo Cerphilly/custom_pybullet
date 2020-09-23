@@ -53,7 +53,7 @@ class InvertedPendulumSwingup(InvertedPendulum):
 
 
 class InvertedDoublePendulum(MJCFBasedRobot):
-
+  swingup = False
   def __init__(self):
     MJCFBasedRobot.__init__(self, 'inverted_double_pendulum.xml', 'cart', action_dim=1, obs_dim=9)
 
